@@ -12,3 +12,5 @@ Overall, The travel UI project in Flutter allows us to create a feature-rich, vi
 ![Simulator Screen Shot - iPhone 1](https://user-images.githubusercontent.com/97752627/211207190-05a18d8e-3a0f-4229-ab44-1cced5b56a37.png)
 
 This screen serves as the home page for the app.
+
+![Simulator Screen Recording - iPhone 14 Pro Max - 2023-01-08 at 21 46 46](https://user-images.githubusercontent.com/97752627/211207439-e7887738-799d-4df2-8920-4a4c25c8bf50.gif)
