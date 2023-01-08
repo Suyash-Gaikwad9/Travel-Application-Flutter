@@ -1,4 +1,4 @@
-# Apps From Scratch | Flutter Travel UI Starter Repo
+# Travel App
 
 Flutter is an open-source mobile application development framework created by Google. It allows developers to build cross-platform apps for Android and iOS using a single codebase.
 
